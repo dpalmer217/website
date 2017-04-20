@@ -1,0 +1,35 @@
+[33mcommit 36cd2259e8fe3e28f2b6b1299a9782907a9ac630[m
+Author: David Palmer <palmerdavid217@gmail.com>
+Date:   Tue Apr 18 15:41:39 2017 -0700
+
+    Add title
+
+[33mcommit 32baeac227d6f8285bb3ac257107a3664981c405[m
+Author: David Palmer <palmerdavid217@gmail.com>
+Date:   Tue Apr 18 15:35:39 2017 -0700
+
+    Added some HTML structure
+
+[33mcommit 22aa1962a32591535be6b4006900cee8a4c3d494[m
+Author: David Palmer <palmerdavid217@gmail.com>
+Date:   Tue Apr 18 15:28:43 2017 -0700
+
+    add h1 tag
+
+[33mcommit 06f0025fa9636ce9a469b4157be54dcd24e9d3ab[m
+Author: David Palmer <palmerdavid217@gmail.com>
+Date:   Tue Apr 18 15:04:32 2017 -0700
+
+    Add baz
+
+[33mcommit c648b0021cc835d7ded4d7b26249e9e859c90e2f[m
+Author: David Palmer <palmerdavid217@gmail.com>
+Date:   Tue Apr 18 15:01:19 2017 -0700
+
+    Echo string
+
+[33mcommit 06958080fbe8a4e3df3797ee082f0848191bf06a[m
+Author: David Palmer <palmerdavid217@gmail.com>
+Date:   Tue Apr 18 14:47:01 2017 -0700
+
+    Initialize Repository
